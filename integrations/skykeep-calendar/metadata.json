@@ -1,0 +1,1 @@
+{"KPlugin":{"Id":"local.skykeep.calendar","Name":"Skykeep Calendar","Description":"Calendario e agenda locali da Skykeep, senza browser o servizi aggiuntivi","Icon":"view-calendar","Version":"0.1.0","License":"MIT","Authors":[{"Name":"Local"}],"Category":"Date and Time"},"KPackageStructure":"Plasma/Applet","X-Plasma-API-Minimum-Version":"6.0"}
